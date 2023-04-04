@@ -1,7 +1,7 @@
 
 ### Форма обратной связи: валидация формы / Responsive-contact-form
 
-https://juliadooby.github.io/Responsive-contact-form/
+  [Посмотрите сами](https://juliadooby.github.io/Responsive-contact-form/)   
 
 ---
 
