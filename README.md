@@ -10,7 +10,7 @@
 * HTML5
 * CSS3
 * Javascript
-* Php
+* PHP
 
 ---
 
