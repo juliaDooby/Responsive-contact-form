@@ -7,7 +7,8 @@
 
 ### Стек / Stack: 
 
-* HTML / CSS
+* HTML5
+* CSS3
 * JS
 
 ---
