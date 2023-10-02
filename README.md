@@ -1,7 +1,6 @@
 ### Responsive-contact-form ( Feedback form: form validation ) 
 
 [demo](https://juliadooby.github.io/Responsive-contact-form/)   
-
 ---
 
 ### Stack: 
