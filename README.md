@@ -13,9 +13,9 @@
 
 ---
 
-### Development stages:
+## Development stages:
 
-## [Frontend] 
+### [Frontend] 
 
 * Made the appearance of the form.
 * Adapted for mobile devices.
