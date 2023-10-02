@@ -13,7 +13,7 @@
 
 ---
 
-## Development stages:
+### Development stages:
 
 ### [Frontend] 
 
