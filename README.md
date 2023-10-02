@@ -24,5 +24,5 @@
 * To do this, just add a custom attribute to the input in the HTML markup.
 * If the frame value is incorrect, the input fields are highlighted in red, if correct - green.
 * The form submit button only works if all fields are filled out correctly.
----
+
 
