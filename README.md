@@ -1,11 +1,10 @@
+### Responsive-contact-form ( Feedback form: form validation ) 
 
-### Форма обратной связи: валидация формы / Responsive-contact-form
-
-  [Посмотрите сами](https://juliadooby.github.io/Responsive-contact-form/)   
+  [demo](https://juliadooby.github.io/Responsive-contact-form/)   
 
 ---
 
-### Стек / Stack: 
+### Stack: 
 
 * HTML5
 * CSS3
@@ -14,18 +13,16 @@
 
 ---
 
-### Этапы разработки: 
+### Development stages:
 
-### [FRONTEND] 
+## [Frontend] 
 
-* Сделан внешний вид формы. 
-* Адаптирован под мобильные устройства. 
-* Написала универсальный скрипт на JS для валидации полей формы. 
-* Данный скрипт будет сам определять, что поле проверяется на валидность. 
-* Для этого достаточно добавить в HTML-разметке кастомный атрибут в input. 
-* При неправильном значении рамки поля input подсвечиваются красным, при правильном - зеленым. 
-* Кнопка отправки формы submit срабатывает только, если все поля заполнены корректно.
-
+* Made the appearance of the form.
+* Adapted for mobile devices.
+* Wrote a universal script in JS for validating form fields.
+* This script will automatically determine that the field is being checked for validity.
+* To do this, just add a custom attribute to the input in the HTML markup.
+* If the frame value is incorrect, the input fields are highlighted in red, if correct - green.
+* The form submit button only works if all fields are filled out correctly.
 ---
 
-## Не забудьте поставить звездочку ! ! ! ★ 
