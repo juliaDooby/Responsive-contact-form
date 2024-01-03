@@ -1,4 +1,10 @@
-### Responsive-contact-form / ( Feedback form: form validation ) 
+## Responsive-contact-form / ( Feedback form: form validation ) 
+
+![HTML5](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <div align="center"><img src="https://github.com/juliaDooby/Responsive-contact-form/blob/main/validationFormShot.JPG" width="100%" height="20%"></img></div>
 
