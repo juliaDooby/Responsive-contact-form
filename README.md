@@ -6,9 +6,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+<a href="https://juliadooby.github.io/Responsive-contact-form/"><strong>➥Demo</strong></a>
+  
 <div align="center"><img src="https://github.com/juliaDooby/Responsive-contact-form/blob/main/validationFormShot.JPG" width="100%" height="20%"></img></div>
 
-[demo](https://juliadooby.github.io/Responsive-contact-form/)   
 ---
 
 ### Technologies Used:
